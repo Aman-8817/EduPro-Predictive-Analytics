@@ -1,0 +1,60 @@
+Task,Feature,Importance
+Enrollment Demand,CourseCategory_Data Science,1.479832072844377
+Enrollment Demand,PastAverageRevenue,1.3260562611584472
+Enrollment Demand,PriceBand_High,1.2096753435416885
+Enrollment Demand,CourseCategory_Cybersecurity,0.9078985808988517
+Enrollment Demand,PriceBand_Low,0.8997747697543711
+Enrollment Demand,CourseCategory_Finance,0.88960814929262
+Enrollment Demand,CourseCategory_Marketing,0.85773005535001
+Enrollment Demand,CourseCategory_Programming,0.834099276413491
+Enrollment Demand,CourseCategory_Digital Marketing,0.697325440036965
+Enrollment Demand,CourseLevel_Intermediate,0.5952719775267376
+Enrollment Demand,CourseLevel_Beginner,0.4085735566534872
+Enrollment Demand,CourseRating,0.3887432674049149
+Enrollment Demand,CourseDuration,0.3779972334617423
+Enrollment Demand,CourseCategory_Business,0.37707252681259357
+Enrollment Demand,ExpertiseCategoryMatch,0.35356254926560576
+Enrollment Demand,YearsOfExperience,0.34955384381113647
+Enrollment Demand,CourseType_Paid,0.30990057378695174
+Enrollment Demand,PriceBand_Free,0.3099005737869257
+Enrollment Demand,CourseType_Free,0.3099005737869188
+Enrollment Demand,CourseCategory_Design,0.24792418811928602
+Course Revenue,RevenuePerEnrollment,1185.2142939919372
+Course Revenue,CoursePrice,1185.2142939917458
+Course Revenue,PastAverageRevenue,376.6257299040555
+Course Revenue,CourseCategory_Data Science,313.49136986711113
+Course Revenue,CourseCategory_Finance,215.45733313077844
+Course Revenue,CourseCategory_Machine Learning,215.2771750992892
+Course Revenue,CourseCategory_Business,185.418653212693
+Course Revenue,CourseCategory_Artificial Intelligence,182.3359968736637
+Course Revenue,RatingTier_Developing,171.63697047109548
+Course Revenue,CourseRating,169.29935771239505
+Course Revenue,CourseLevel_Intermediate,161.52650824513847
+Course Revenue,RatingTier_Excellent,156.2577143618143
+Course Revenue,CourseCategory_Digital Marketing,146.7493325621204
+Course Revenue,PriceBand_High,145.46809119726643
+Course Revenue,CourseLevel_Beginner,131.99271607038574
+Course Revenue,CourseCategory_Cybersecurity,123.81961951802357
+Course Revenue,CourseCategory_Design,118.15829475517914
+Course Revenue,PriceBand_Low,113.11366310451514
+Course Revenue,TeacherRating,108.53742015136362
+Course Revenue,CourseCategory_Project Management,93.92808865185255
+Category Revenue,AverageCoursePrice,4106.245294349014
+Category Revenue,PastAverageRevenue,1434.5332091360033
+Category Revenue,CourseCategory_Project Management,974.8065722002793
+Category Revenue,CourseCategory_Business,803.351023235183
+Category Revenue,CourseCategory_Data Science,772.8535696086643
+Category Revenue,CourseCategory_Cybersecurity,671.6579186174622
+Category Revenue,CourseCategory_Machine Learning,568.9384188509829
+Category Revenue,RevenuePerEnrollment,445.4847918920199
+Category Revenue,CourseCategory_Web Development,330.78250400612455
+Category Revenue,CourseCategory_Marketing,325.02564027370823
+Category Revenue,CourseCategory_Digital Marketing,313.6370615774826
+Category Revenue,CourseCategory_Design,178.32417965911776
+Category Revenue,CourseCategory_Finance,172.98960210171512
+Category Revenue,AverageCourseRating,85.22302326008926
+Category Revenue,CourseCategory_Programming,36.9436430580752
+Category Revenue,CourseCategory_Artificial Intelligence,26.599483015428593
+Category Revenue,PastEnrollmentCount,19.959760945442927
+Category Revenue,MonthNumber,9.675342616162236
+Category Revenue,CourseCount,0.0

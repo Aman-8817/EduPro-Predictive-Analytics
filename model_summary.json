@@ -1,0 +1,11 @@
+{
+  "Enrollment Demand": "Ridge Regression",
+  "Course Revenue": "Ridge Regression",
+  "Category Revenue": "Ridge Regression",
+  "first_month": "2025-01",
+  "last_forecast_month": "2025-12",
+  "holdout_months": [
+    "2025-11",
+    "2025-12"
+  ]
+}
