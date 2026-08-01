@@ -1,5 +1,9 @@
 # EduPro Predictive Intelligence Dashboard
 
+## 🚀 Live Dashboard
+
+[Open EduPro Predictive Analytics Dashboard](https://aman-edupro-predictive-analytics.streamlit.app/)
+
 ## Project Overview
 
 This Unified Mentor Data Analyst Internship project converts EduPro's historical course data into month-ahead forecasts for:
