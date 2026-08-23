@@ -6,7 +6,12 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-st.set_page_config(page_title="EduPro Forecasting", page_icon="📚", layout="wide")
+st.set_page_config(
+    page_title="EduPro Forecasting",
+    page_icon="📚",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 BASE = Path(__file__).resolve().parent
 
 st.markdown("""
@@ -23,8 +28,13 @@ st.markdown("""
     max-width: 1450px;
 }
 
-#MainMenu, footer, header {
+#MainMenu, footer {
     visibility: hidden;
+}
+
+/* Keep header available so sidebar can be reopened */
+header[data-testid="stHeader"] {
+    background: transparent;
 }
 
 /* Main-page text */
